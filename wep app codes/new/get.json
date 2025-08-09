@@ -1,0 +1,31 @@
+[
+    {
+        "date": "2024-12-20",
+        "time": "04:14:08",
+        "left_inverter_max_temp": "83.24",
+        "right_inverter_max_temp": "93.76",
+        "ambient_temperature": "26.09",
+        "car_speed_gauge": "10.21",
+        "lat": "45.594048",
+        "lon": "-1.423234",
+        "yaw_rate": "16.2",
+        "baro": "985.66",
+        "heading_angle": "202.81",
+        "heading_dir": "East",
+        "left_wheel_spd": "51.41",
+        "right_wheel_spd": "55.45",
+        "left_mosfet_1": "66.24",
+        "left_mosfet_2": "61.13",
+        "left_mosfet_3": "67.19",
+        "left_motor_temp": "76.92",
+        "right_mosfet_1": "91.4",
+        "right_mosfet_2": "85.32",
+        "right_mosfet_3": "94.35",
+        "right_motor_temp": "81.62",
+        "total_voltage": "109.41",
+        "total_current": "4.91",
+        "power_consumed": "11.43",
+        "energy_consumed": "34.03",
+        "soc": "60"
+    }
+]
