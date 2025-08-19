@@ -25,7 +25,7 @@ String getdatafrompcurl = "https://racingteam.rf.gd/new/get.json";
 int receivedChar;
 int btnGPIO = 0;
 void setup() {
-  Serial.begin(115200);
+  Serial.begin(9600);
   pinMode(btnGPIO, INPUT);  
   init_wifi(ssid, password);  // Wi-Fi initialization
   // Initialize all variables to default values

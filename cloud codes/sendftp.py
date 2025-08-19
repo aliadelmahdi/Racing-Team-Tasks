@@ -9,7 +9,7 @@ from ftplib import FTP
 ftp_host = "ftpupload.net"
 ftp_user = "if0_38887836"
 ftp_pass = "uZnrqJ55D3nN"
-ftp_remote_file = "data.j'son"
+ftp_remote_file = "data.json"
 ftp_remote_dir = "/htdocs/new"
 
 def upload_to_ftp(json_content):
@@ -62,4 +62,4 @@ while True:
     upload_to_ftp(json_string)
 
     counter = (counter + 1) % 100
-    time.sleep(0.5)
+    time.sleep( )

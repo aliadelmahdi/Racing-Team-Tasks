@@ -9,6 +9,7 @@ ftp_user = "if0_38887836"
 ftp_pass = "uZnrqJ55D3nN"
 ftp_remote_dir = "/htdocs/new"
 ftp_filename = "data.json"
+
 local_filename = "data.json"
 
 def download_json_from_ftp():
